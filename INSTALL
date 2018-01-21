@@ -1,0 +1,9 @@
+Building HKcoin
+
+See doc/readme-qt.rst for instructions on building HKcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HKcoin.
+
+See doc/build-*.txt for instructions on building hkcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HKcoin.
